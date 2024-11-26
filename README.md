@@ -2,6 +2,8 @@
 
 ## Simple Calculator Web App
 
+### Project : [https://sanuscalc.netlify.app/](https://sanuscalc.netlify.app/)
+
 This is a simple calculator web application built with HTML, CSS, and JavaScript.
 
 ![image](https://github.com/user-attachments/assets/68d18a69-7623-4c3a-80e4-a70749f89f68)
